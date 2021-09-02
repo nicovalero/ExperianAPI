@@ -18,3 +18,7 @@ The unit tests were mde by Mocking. Fake could have been used as well, although 
 The easiest way to run the tests is:
     - Clicking on **Test > Run All Tests**. The **Test Explorer should appear** with information about the test run.
     - Alternatively, under the test project, you can find the classes with tests inside. **You can trigger the tests by going to each method > right click on the name > Run Test**.
+    
+**Extra libraries used**
+    - Moq, for unit testing using Mock.
+    - Newtonsoft.Json, to Deserialize/Serialize objects.
